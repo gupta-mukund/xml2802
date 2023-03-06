@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<CATALOG
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema"
-    xsi:noNamespaceSchemaLocation="botanica.xsd">
+<CATALOG xmlns:xsi="http://www.w3.org/2001/XMLSchema">
     <PLANT>
         <COMMON>Bloodroot</COMMON>
         <BOTANICAL>Sanguinaria canadensis</BOTANICAL>
